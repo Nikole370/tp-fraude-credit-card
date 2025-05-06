@@ -11,11 +11,11 @@ Desarrollar un modelo de Machine Learning capaz de detectar transacciones fraudu
 - `data/`  
   Contiene el dataset utilizado (original y preprocesado).
 
-- `notebooks/`  
+- `eda-analysis/`  
   Incluye los análisis exploratorios, preprocesamiento y construcción del modelo.
 
-- `scripts/`  
+- `preprocessing/`  
   Código modularizado para la limpieza de datos, entrenamiento del modelo y evaluación.
 
-- `visualizaciones/`  
+- `modeling/`  
   Gráficos generados durante el análisis y modelado.
